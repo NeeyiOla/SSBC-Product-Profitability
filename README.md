@@ -10,4 +10,4 @@
 - [Design](#design)
   - [Mock Dashboard](#Mock-Dasboard)
   - [Tools](#Tools)
--[Developemnt](developement
+-[Developemnt](developement)
