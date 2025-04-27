@@ -10,7 +10,7 @@
 - [Design](#design)
   - [Mock Dashboard](#Mock-Dasboard)
   - [Tools](#Tools)
--[Developemnt](developement)
+- [Developemnt](developement)
   - [Data Exploration](#Data Exploration)
   - [Data Cleaning](#Data Cleaning)
   - [Transforming the Data]
